@@ -1,0 +1,4 @@
+repository "AI project@anestikolici@cloud"
+  path "/"
+    br "/main"
+    co "/main"
